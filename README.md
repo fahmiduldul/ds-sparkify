@@ -1,3 +1,37 @@
-### Sparkify Unsubscribe Detection
+## Sparkify Churn Prediction
 
-this project is my Udacity Data Science Nanodegree capstone project. It try to detect user who are willing to unsubscribe based on their activity. The Data is 13 gb in size that require distributed computing to solve this problem. In this project I use Apache Spark to have 
+### About the Project
+
+In subscription based service, churing is when user stop using the paid service. Since loss of service subscribers is a big lost, We need to predict whether user will churn based on their in app activity. This project I use Sparkify 12 GB dataset provided by Udacity. I use machine learning algorith to predict whether user will churn or not
+
+### Folder Structure
+
+#### notebooks/
+
+this folder contains all notebooks needed to finish this project
+
+- **1_data_wrangling**
+this notebooks contains how raw data prepared and wrangled so it becomes easier to do feature extraction
+
+- **2_feature_extraction**
+this notebook contains code used to extract feature from raw data for model training
+
+- **3_descriptive**
+this notebook contains descriptive analysis from wrangled dataset
+
+- **4_training**
+this notebook contains how model trained and evaluated
+
+### Built with
+- [Apache Spark](https://spark.apache.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [Numpy](https://numpy.org/)
+- [Sklearn](https://scikit-learn.org/)
+
+### License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+### Contact
+
+Fahmi Abdulaziz - [@fahmiduldul](https://twitter.com/fahmiduldul) - afahmi13@live.com
