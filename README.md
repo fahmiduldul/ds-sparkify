@@ -32,6 +32,10 @@ this notebook contains how model trained and evaluated
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
+### Article
+
+Churn Prediction Using Machine Learning - [Medium](https://fahmiduldul.medium.com/churn-prediction-using-machine-learning-61b50aa111e8)
+
 ### Contact
 
 Fahmi Abdulaziz - [@fahmiduldul](https://twitter.com/fahmiduldul) - afahmi13@live.com
